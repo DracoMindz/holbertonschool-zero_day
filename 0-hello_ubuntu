@@ -1,8 +1,0 @@
-Virtual Machine is  an emulator of a computer system (Wikipedia) providing an independent place to run programs.
-Vagrant is open-source software used to manage and build virtual environments. 
-Mitchell  Hashimoto wrote Vagrant.
-Ubuntu is an opensource operating system.
-Ubuntu is a Nguni word that refers to humanity and compassion.
-Using Vagrant with VMs: once a Vagrantfile is created members of the same project team can work on the project in the same environment.
-Uname prinst the system information.  For instance whwn I typed in uname in the Terminal after accessing loading and accessing Vagrant "Linux" appeared because I was using a linux system.
-A Zero-Day refers to the day when "interested part(ies)" becaome aware of their vulnerabilities.
