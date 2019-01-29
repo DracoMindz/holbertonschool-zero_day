@@ -1,0 +1,1 @@
+This project requires me to practice git commands while learning vi commands. The vi commands are saved it the git repositories via the command line.
